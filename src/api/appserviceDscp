@@ -1,0 +1,72 @@
+{
+  "availabilityState": "Normal",
+  "clientAffinityEnabled": true,
+  "clientCertEnabled": false,
+  "cloningInfo": null,
+  "containerSize": 0,
+  "dailyMemoryTimeQuota": 0,
+  "defaultHostName": "cognitivecodeapp.azurewebsites.net",
+  "deploymentLocalGitUrl": "https://amirabdi@cognitivecodeapp.scm.azurewebsites.net/cognitiveCodeApp.git",
+  "enabled": true,
+  "enabledHostNames": [
+    "cognitivecodeapp.azurewebsites.net",
+    "cognitivecodeapp.scm.azurewebsites.net"
+  ],
+  "ftpPublishingUrl": "ftp://waws-prod-mwh-007.ftp.azurewebsites.windows.net/site/wwwroot",
+  "hostNameSslStates": [
+    {
+      "hostType": "Standard",
+      "ipBasedSslResult": null,
+      "ipBasedSslState": "NotConfigured",
+      "name": "cognitivecodeapp.azurewebsites.net",
+      "sslState": "Disabled",
+      "thumbprint": null,
+      "toUpdate": null,
+      "toUpdateIpBasedSsl": null,
+      "virtualIp": null
+    },
+    {
+      "hostType": "Repository",
+      "ipBasedSslResult": null,
+      "ipBasedSslState": "NotConfigured",
+      "name": "cognitivecodeapp.scm.azurewebsites.net",
+      "sslState": "Disabled",
+      "thumbprint": null,
+      "toUpdate": null,
+      "toUpdateIpBasedSsl": null,
+      "virtualIp": null
+    }
+  ],
+  "hostNames": [
+    "cognitivecodeapp.azurewebsites.net"
+  ],
+  "hostNamesDisabled": false,
+  "hostingEnvironmentProfile": null,
+  "httpsOnly": false,
+  "hyperV": false,
+  "id": "/subscriptions/4d895cbb-199f-444a-974e-a9f5ab68d614/resourceGroups/nw2019resourcegroup/providers/Microsoft.Web/sites/cognitiveCodeApp",
+  "identity": null,
+  "isDefaultContainer": null,
+  "isXenon": false,
+  "kind": "app,linux",
+  "lastModifiedTimeUtc": "2019-01-27T04:38:28.603333",
+  "location": "West US 2",
+  "maxNumberOfWorkers": null,
+  "name": "cognitiveCodeApp",
+  "outboundIpAddresses": "52.175.254.10,52.183.85.212,52.183.86.156,52.183.100.42,52.183.85.188",
+  "possibleOutboundIpAddresses": "52.175.254.10,52.183.85.212,52.183.86.156,52.183.100.42,52.183.85.188,52.151.29.83,52.151.33.248",
+  "repositorySiteName": "cognitiveCodeApp",
+  "reserved": true,
+  "resourceGroup": "nw2019ResourceGroup",
+  "scmSiteAlsoStopped": false,
+  "serverFarmId": "/subscriptions/4d895cbb-199f-444a-974e-a9f5ab68d614/resourceGroups/nw2019ResourceGroup/providers/Microsoft.Web/serverfarms/nwHacksAppServicePlan",
+  "siteConfig": null,
+  "slotSwapStatus": null,
+  "state": "Running",
+  "suspendedTill": null,
+  "tags": null,
+  "targetSwapSlot": null,
+  "trafficManagerHostNames": null,
+  "type": "Microsoft.Web/sites",
+  "usageState": "Normal"
+}
